@@ -15,3 +15,6 @@ COACHTECH 教材 Tutorial 10-5「テスト ハンズオン演習」で作成し�
 
 ## 動作確認
 - ユーザー作成テストを実行し、データベースにユーザー情報が保存されることを確認しました。また、同一メールアドレスでユーザーを作成した際に QueryException が発生することを確認しました。
+- feat: ユーザー作成とメール重複チェックのテストを追加
+- test: UserTestを実装
+- <img width="1934" height="293" alt="image" src="https://github.com/user-attachments/assets/063ae849-7c91-4618-b744-89a95438d6c8" />
